@@ -6,7 +6,6 @@
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anvithacodes&label=Profile%20views&color=0e75b6&style=flat" alt="anvithacodes" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anvithacodes" alt="anvithacodes" /></a> </p>
 
 <h3 align="left">Languages and Tools that I'm Currently Learning:</h3>
