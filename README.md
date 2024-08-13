@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/anvitha-bhat-a-6425a3316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anvitha Bhat A" height="30" width="40" /></a>
 </p>
 
-## GSSOC(24) Badges 🪶
+## GSSOC(24) Badges 🎖️
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
