@@ -13,12 +13,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvithacodes&" alt="anvithacodes" /></p>
 
- <hr>
- <div class="contribution-container">
-       <h3> <p>👩 💻 Open Source Contribution 🤝</p> </h3>
-       <b> <p>GirlScript Summer of Code (GSSOC'24) :</p> </b>
-        <img src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" alt="GirlScript Summer of Code (GSSOC'24)" width="100" height="100">
-    </div>
+
 
 ## GSSOC(24) Badges 🎖️
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
